@@ -1,2 +1,7 @@
-# sort
-Sorting algorithms in javascript
+# Sorting algorithms in javascript
+
+### Currently supported sorting algorithms :
+
+-quickSort
+-selectionSort
+-bubbleSort
