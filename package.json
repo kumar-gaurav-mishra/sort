@@ -1,5 +1,5 @@
 {
-  "name": "js-sort",
+  "name": "@kumarx/js-sorting",
   "version": "1.1.0",
   "description": "Sorting Algorithms in Javascript",
   "main": "index.js",
