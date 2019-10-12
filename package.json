@@ -1,6 +1,6 @@
 {
   "name": "@kumarx/js-sorting",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Sorting Algorithms in Javascript",
   "main": "index.js",
   "scripts": {
