@@ -1,6 +1,6 @@
 {
   "name": "@kumarx/js-sorting",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Sorting Algorithms in Javascript",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,16 @@
     "url": "https://github.com/kumar-gaurav-mishra/sort/issues"
   },
   "homepage": "https://github.com/kumar-gaurav-mishra/sort#readme",
+  "keywords": [
+    "sorting",
+    "quick sort",
+    "selection sort",
+    "bubble sort",
+    "merge sort",
+    "radix sort",
+    "insertion sort",
+    "javascript"
+  ],
   "devDependencies": {
     "chai": "^4.2.0",
     "mocha": "^6.2.1",
