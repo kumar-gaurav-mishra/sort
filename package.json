@@ -1,5 +1,5 @@
 {
-  "name": "@kumarx/js-sorting",
+  "name": "js-sorting-algo",
   "version": "1.0.1",
   "description": "Sorting Algorithms in Javascript",
   "main": "index.js",
@@ -21,5 +21,17 @@
     "chai": "^4.2.0",
     "mocha": "^6.2.1",
     "nyc": "^14.1.1"
-  }
+  },
+    "keywords": [
+    "DataStruture",
+    "sorting",
+    "algorithms",
+    "js-sorting-algorithms",
+    "js sorting",
+    "quickSort",
+    "bubbleSort",
+    "mergeSort",
+    "radixSort",
+    "insertionSort"
+  ]
 }

@@ -13,13 +13,13 @@
 
 ```Installation
 
-npm install @kumarx/js-sorting
+npm install js-sorting-algo
 
 ```
 
 ```Javascript
 
- const sort = require('@kumarx/js-sorting');
+ const sort = require('js-sorting-algo');
  sort.quickSort([23, 25, 10, 2, 200]); // [2, 10, 23, 25, 200];
  sort.bubbleSort([23, 25, 10, 2, 200]); // [2, 10, 23, 25, 200];
  sort.selectionSort([23, 25, 10, 2, 200]); // [2, 10, 23, 25, 200];
